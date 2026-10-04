@@ -16,19 +16,29 @@ Nhiệm vụ 2: Checklist DoD
  1. DoD cho bài báo cáo Word
 
 -Trang bìa đầy đủ tên trường, môn học, đề tài, danh sách thành viên và mã sinh viên.
--Sử dụng font Times New Roman hoặc Arial, cỡ chữ 13–14, giãn dòng 1.5.
+ 
+ -Sử dụng font Times New Roman hoặc Arial, cỡ chữ 13–14, giãn dòng 1.5.
+
 - Báo cáo có đủ 8–10 trang nội dung.
+
 -Có ít nhất 2 biểu đồ số liệu khảo sát rõ ràng.
+
 -Không có lỗi chính tả tiếng Việt.
+
 -Có mục lục tự động và tài liệu tham khảo.
 
 2. DoD cho Slide PowerPoint
 
  -Đủ 12 slide, bố cục mạch lạc.
+
 -Cỡ chữ nội dung từ 24pt trở lên, màu chữ tương phản với nền.
+
  -Có biểu đồ khảo sát và hình ảnh minh họa rõ nét, kèm nguồn.
+
 -Nội dung ngắn gọn, dễ hiểu, thống nhất về màu sắc và thiết kế.
+
 -Có slide tóm tắt 4 giải pháp cốt lõi.
+
 - Có slide cảm ơn và Q&A.
 
  Nhiệm vụ 3: Bảng Kanban và nguyên tắc WIP
@@ -46,9 +56,13 @@ Nhiệm vụ 2: Checklist DoD
  2. Giải quyết tình trạng ôm việc của Nam
 
 -Tác hại: Nam cùng lúc làm 3 việc khiến tiến độ bị chậm, chất lượng công việc giảm và các thành viên khác phải chờ tài liệu để tiếp tục nhiệm vụ.
+
 -Giải pháp: Áp dụng nguyên tắc WIP, mỗi thành viên chỉ được đảm nhận tối đa 1 công việc đang làm.
+
 -Nam ưu tiên hoàn thành Việc 1 (khảo sát), chuyển Việc 3 và Việc 5 về To Do để phân công lại cho các thành viên phù hợp.
+
 -Sau khi hoàn thành một công việc, thành viên mới được nhận công việc tiếp theo.
+
 -Nhóm trưởng Tuấn theo dõi bảng Kanban, hỗ trợ khi có khó khăn và đảm bảo các công việc được hoàn thành đúng hạn.
 
 Kết luận
