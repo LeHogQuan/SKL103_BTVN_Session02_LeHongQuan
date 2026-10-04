@@ -1,10 +1,6 @@
-SKL103 – BTVN Session 02
-
-Lập kế hoạch bài tập nhóm: WBS, DoD và Kanban
-
 Nhiệm vụ 1: Bảng phân rã công việc WBS
 
-| Mã việc | Tên công việc| Người phụ trách | Hạn hoàn thành |
+| Mã việc | Tên công việc | Người phụ trách | Hạn hoàn thành |
 | ------- | ---| --------------- | -------------- |
 | 1.1     | Soạn 6 câu hỏi khảo sát và thu thập ý kiến 25 sinh viên | Nam             | Ngày 1         |
 | 1.2     | Tổng hợp kết quả và vẽ 3 biểu đồ                        | Linh            | Ngày 2         |
@@ -19,21 +15,21 @@ Nhiệm vụ 2: Checklist DoD
 
  1. DoD cho bài báo cáo Word
 
- [ ] Trang bìa đầy đủ tên trường, môn học, đề tài, danh sách thành viên và mã sinh viên.
-[ ] Sử dụng font Times New Roman hoặc Arial, cỡ chữ 13–14, giãn dòng 1.5.
- [ ] Báo cáo có đủ 8–10 trang nội dung.
- [ ] Có ít nhất 2 biểu đồ số liệu khảo sát rõ ràng.
- [ ] Không có lỗi chính tả tiếng Việt.
- [ ] Có mục lục tự động và tài liệu tham khảo.
+-Trang bìa đầy đủ tên trường, môn học, đề tài, danh sách thành viên và mã sinh viên.
+-Sử dụng font Times New Roman hoặc Arial, cỡ chữ 13–14, giãn dòng 1.5.
+- Báo cáo có đủ 8–10 trang nội dung.
+-Có ít nhất 2 biểu đồ số liệu khảo sát rõ ràng.
+-Không có lỗi chính tả tiếng Việt.
+-Có mục lục tự động và tài liệu tham khảo.
 
 2. DoD cho Slide PowerPoint
 
- [ ] Đủ 12 slide, bố cục mạch lạc.
- [ ] Cỡ chữ nội dung từ 24pt trở lên, màu chữ tương phản với nền.
- [ ] Có biểu đồ khảo sát và hình ảnh minh họa rõ nét, kèm nguồn.
- [ ] Nội dung ngắn gọn, dễ hiểu, thống nhất về màu sắc và thiết kế.
- [ ] Có slide tóm tắt 4 giải pháp cốt lõi.
- [ ] Có slide cảm ơn và Q&A.
+ -Đủ 12 slide, bố cục mạch lạc.
+-Cỡ chữ nội dung từ 24pt trở lên, màu chữ tương phản với nền.
+ -Có biểu đồ khảo sát và hình ảnh minh họa rõ nét, kèm nguồn.
+-Nội dung ngắn gọn, dễ hiểu, thống nhất về màu sắc và thiết kế.
+-Có slide tóm tắt 4 giải pháp cốt lõi.
+- Có slide cảm ơn và Q&A.
 
  Nhiệm vụ 3: Bảng Kanban và nguyên tắc WIP
 
