@@ -5,7 +5,7 @@
 # Nhiệm vụ 1: Bảng phân rã công việc WBS
 
 | Mã việc | Tên công việc                                           | Người phụ trách | Hạn hoàn thành |
-| ------- | ------------------------------------------------------- | --------------- | -------------- |
+| ------- | ---| --------------- | -------------- |
 | 1.1     | Soạn 6 câu hỏi khảo sát và thu thập ý kiến 25 sinh viên | Nam             | Ngày 1         |
 | 1.2     | Tổng hợp kết quả và vẽ 3 biểu đồ                        | Linh            | Ngày 2         |
 | 2.1     | Viết phần Mở đầu và Nội dung 1                          | Nam             | Ngày 3         |
